@@ -6,5 +6,5 @@ import (
 
 func main() {
 	crawler := crawler.NewCrawler()
-	crawler.ScrapePlayer()
+	crawler.ScrapeTeam()
 }
